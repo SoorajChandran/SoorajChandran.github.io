@@ -34,7 +34,10 @@ a:hover, a:active, a:focus {
   color: #F9BF3B;
   outline: none;
 }
-
+.side-link{
+  color: rgba(0, 0, 0, 0.7);
+  text-decoration: underline;
+}
 p {
   margin-bottom: 1.5em;
 }
